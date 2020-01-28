@@ -1,1 +1,3 @@
-Hello Guys
+Hello guys 
+
+This is a simple text file
